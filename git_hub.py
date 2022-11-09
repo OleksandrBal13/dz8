@@ -1,0 +1,1 @@
+print("I think I'm on the right way understanding git...I quess")
