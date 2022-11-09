@@ -3,3 +3,5 @@ def main_function():
     print("second")
     print("third")
     print("fourth")
+    print("new first")
+    print("new second")
